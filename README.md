@@ -10,11 +10,11 @@ Si :v<br/>
 Asi de facil :v<br/>
 ## Codigo fuente
 Pos a ver si entiendes algo :v<br/>
-<code>
-  using System;
+'''Csharp
+using System;
 
-  class Acciones
-  {
+class Acciones
+{
     /**
     * @description Lee archivo de texto solo 
     * @returns El area de la formula solo sabiendo un lado de la base y un lado de una cara x
@@ -57,9 +57,8 @@ Pos a ver si entiendes algo :v<br/>
         double s = 3 * x * x * Math.Sqrt(Math.Pow(x, 2) - Math.Pow(x / 2, 2));
         return s;
     }
-  }
-</code>
-
+}
+'''
 
 ## Creador
 Lo ves o no lo ves? Porque io si lo veo<br/>
