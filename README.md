@@ -10,7 +10,7 @@ Si :v<br/>
 Asi de facil :v<br/>
 ## Codigo fuente
 Pos a ver si entiendes algo :v<br/>
-```using System;
+<code>using System;
 
 class Acciones
 {
@@ -56,7 +56,7 @@ class Acciones
         double s = 3 * x * x * Math.Sqrt(Math.Pow(x, 2) - Math.Pow(x / 2, 2));
         return s;
     }
-}`
+}</code>
 
 
 ## Creador
