@@ -56,7 +56,9 @@ class Acciones
         double s = 3 * x * x * Math.Sqrt(Math.Pow(x, 2) - Math.Pow(x / 2, 2));
         return s;
     }
-}```
+}`
+
+
 ## Creador
 Lo ves o no lo ves? Porque io si lo veo<br/>
 MIRA LA URL >:v
