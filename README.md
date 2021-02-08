@@ -10,7 +10,7 @@ Si :v<br/>
 Asi de facil :v<br/>
 ## Codigo fuente
 Pos a ver si entiendes algo :v<br/>
-'''Csharp
+```Csharp
 using System;
 
 class Acciones
@@ -58,7 +58,7 @@ class Acciones
         return s;
     }
 }
-'''
+```
 
 ## Creador
 Lo ves o no lo ves? Porque io si lo veo<br/>
