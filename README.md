@@ -1,4 +1,4 @@
-# Programa para obtener la formula de un prisma hexagonal
+# Programa para obtener el area y volumen de un prisma hexagonal
 ## Indice
   - Uso
   - Codigo fuente
